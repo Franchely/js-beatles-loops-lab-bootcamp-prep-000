@@ -22,4 +22,5 @@ function iLoveTheBeatles(num) {
   do {
     newArray.push("I love the Beatles!"); i++
   } while (i < array.length)
+  return anArray
 }
